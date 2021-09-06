@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
-subtitle: Computer Langurage Skills
+title: Computer Skills
+subtitle: 
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
@@ -30,24 +30,6 @@ feature:
   icon: 'shell'
   icon_pack: custom
   name: Shell
-  
-  
-subtitle: Langurage Skills
-feature:
-- description: 80%
-  icon: '英语'
-  icon_pack: custom
-  name: English
-
-- description: 80%
-  icon: '德语'
-  icon_pack: custom
-  name: Deutsch
-
-- description: 80%
-  icon: '日语'
-  icon_pack: custom
-  name: '日本語'
 
 
 # Uncomment to use emoji icons.
