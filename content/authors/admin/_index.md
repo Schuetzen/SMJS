@@ -1,7 +1,6 @@
 ---
 # Display name
-title: Schuetzen Ying 
-subtitle: Xuchen Ying
+title: Xuchen Ying 
 
 # Is this the primary user of the site?
 superuser: true
@@ -74,9 +73,8 @@ social:
 email: "yingxuchen@hotmail.com"
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
-Hello world
+Ying Xuchen, also known as Schuetzen Ying.
 
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
