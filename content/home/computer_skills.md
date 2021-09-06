@@ -33,6 +33,7 @@ feature:
   
   
 subtitle: Langurage Skills
+feature:
 - description: 80%
   icon: '英语'
   icon_pack: custom
