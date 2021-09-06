@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Computer Skills
-subtitle:
+title: Skills
+subtitle: Computer Skills
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
@@ -29,7 +29,7 @@ feature:
 - description: 80%
   icon: 'shell'
   icon_pack: custom
-  name: Photography
+  name: Shell
   
 - description: 60%
   icon: 'shell'
