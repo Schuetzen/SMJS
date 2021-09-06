@@ -76,7 +76,7 @@ email: "yingxuchen@hotmail.com"
 highlight_name: true
 ---
 
-Xuchen Ying, also known as Schuetzen Ying. \
+Ying Xuchen, also known as Schuetzen Ying. \
 \
 Participate in fund projects:
 * National Natural Science Foundation of China through grant `No. 51736007`
