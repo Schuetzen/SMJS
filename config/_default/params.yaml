@@ -32,7 +32,7 @@ address:
 coordinates:
   latitude: '31.2916'
   longitude: '121.5496'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+directions: 
 office_hours:
   - 'Weekdays: 9:00 to 18:00'
 # appointment_url: 'https://calendly.com'
