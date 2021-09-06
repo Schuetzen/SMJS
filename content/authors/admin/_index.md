@@ -29,14 +29,14 @@ education:
 #  - course: PhD in Artificial Intelligence
 #    institution: Stanford University
 #    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: University of Shanghai for Science and Technology
+  - course: MEng in  Engineering Thermophysics
+    institution: University of Shanghai for Science and Technology，Shanghai，CN
     url: https://www.usst.edu.cn/
-    year: 2023
-  - course: BSc in Artificial Intelligence
-    institution: University of Shanghai for Science and Technology
+    year: 2020 - 
+  - course: BSc in  Engineering Thermophysics
+    institution: University of Shanghai for Science and Technology，Shanghai，CN
     url: https://www.usst.edu.cn/
-    year: 2020
+    year: 2016 -2020
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
