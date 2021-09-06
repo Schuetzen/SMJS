@@ -79,6 +79,6 @@ highlight_name: true
 Ying Xuchen, also known as Schuetzen Ying. \
 \
 Participate in fund projects:
-* National Natural Science Foundation of China through grant `No. 51736007`
-* Shanghai Sailing Program `No. 19YF1434800`
+* National Natural Science Foundation of China through grant `No.51736007`
+* Shanghai Sailing Program `No.19YF1434800`
 
