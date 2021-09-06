@@ -14,7 +14,7 @@ organizations:
   url: https://www.usst.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Hello, world
+bio: Ying Xuchen, also known as Schuetzen Ying.
 
 # Interests to show in About widget
 interests:
@@ -35,7 +35,7 @@ education:
   - course: BSc in  Engineering Thermophysics
     institution: University of Shanghai for Science and Technology，Shanghai，CN
     url: https://www.usst.edu.cn/
-    year: 2016 -2020
+    year: 2016 - 2020
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
