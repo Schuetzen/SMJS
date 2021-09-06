@@ -31,11 +31,23 @@ feature:
   icon_pack: custom
   name: Shell
   
-- description: 60%
-  icon: 'shell'
-  icon_pack: custom
-  name: Shell
   
+subtitle: Langurage Skills
+- description: 80%
+  icon: '英语'
+  icon_pack: custom
+  name: English
+
+- description: 80%
+  icon: '德语'
+  icon_pack: custom
+  name: Deutsch
+
+- description: 80%
+  icon: '日语'
+  icon_pack: custom
+  name: 日本語
+
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
