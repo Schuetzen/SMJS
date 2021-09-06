@@ -23,20 +23,19 @@ twitter: ''
 email: yingxuchen@hotmail.com
 phone: +86 18321935593
 address:
-  street: Jungong Road 615
+  street: Jungong Road 516
   city: Shanghai
   region: CN
-  postcode: '94305'
+  postcode: '201306'
   country: China
   country_code: CN
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
+  latitude: '31.2916'
+  longitude: '121.5496'
 directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+  - 'Weekdays: 9:00 to 18:00'
+# appointment_url: 'https://calendly.com'
 #contact_links:
 #  - icon: twitter
 #    icon_pack: fab
