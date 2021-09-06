@@ -46,7 +46,7 @@ subtitle: Langurage Skills
 - description: 80%
   icon: '日语'
   icon_pack: custom
-  name: 日本語
+  name: '日本語'
 
 
 # Uncomment to use emoji icons.
