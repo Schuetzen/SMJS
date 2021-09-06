@@ -9,22 +9,21 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Computer Skills
+title: Langurage Skills
 subtitle: 
 
-subtitle: Langurage Skills
 feature:
-- description: 80%
+- description: C1
   icon: '英语'
   icon_pack: custom
   name: English
 
-- description: 80%
+- description: B1
   icon: '德语'
   icon_pack: custom
   name: Deutsch
 
-- description: 80%
+- description: N4
   icon: '日语'
   icon_pack: custom
   name: '日本語'
