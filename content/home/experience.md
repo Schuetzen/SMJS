@@ -26,8 +26,8 @@ experience:
   - title: Sales Assistant
     company: Kingdee software
     company_url: 'https://www.kingdee.com/'
-    company_logo: kingdee
-    company_logo_pack: costom
+    icon: kingdee
+    icon_pack: costom
     location: Nanchang
     date_start: '2018-01'
     date_end: '2018-06'
