@@ -27,7 +27,7 @@ experience:
     company: Kingdee software
     company_url: 'https://www.kingdee.com/'
     company_logo: kingdee
-    icon_pack: costom
+    company_logo_pack: costom
     location: Nanchang
     date_start: '2018-01'
     date_end: '2018-06'
