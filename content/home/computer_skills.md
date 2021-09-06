@@ -10,7 +10,7 @@ headless: true
 weight: 30
 
 title: Computer Skills
-subtitle: 
+subtitle: 'Platform: Windows & Linux'
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
