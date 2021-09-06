@@ -76,5 +76,5 @@ email: "yingxuchen@hotmail.com"
 highlight_name: true
 ---
 
-Ying Xuchen, also known as Schuetzen Ying.
+Xuchen Ying, also known as Schuetzen Ying.
 
