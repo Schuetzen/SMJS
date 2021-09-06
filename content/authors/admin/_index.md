@@ -59,7 +59,7 @@ social:
   icon_pack: fab
   link: https://github.com/schuetzen
   
-#- icon: linkedin
+# - icon: linkedin
 #  icon_pack: fab
 #  link: https://www.linkedin.com/
 
@@ -79,4 +79,4 @@ highlight_name: false
 
 Hello world
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
