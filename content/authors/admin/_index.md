@@ -1,6 +1,7 @@
 ---
 # Display name
-title: Schuetzen Ying (Xuchen Ying)
+title: Schuetzen Ying 
+subtitle: Xuchen Ying
 
 # Is this the primary user of the site?
 superuser: true
@@ -18,9 +19,9 @@ bio: Hello, world
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Numerical Simulation
+- Phase change process
+- Thermal energy storage
 
 # Education to show in About widget
 education:
@@ -45,18 +46,22 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  
+- icon: blog
+  icon_pack: fas
+  link: https://www.cnblogs.com/schuetzen/
+  
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://github.com/schuetzen
+  
+#- icon: linkedin
+#  icon_pack: fab
+#  link: https://www.linkedin.com/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -66,14 +71,12 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "yingxuchen@hotmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
 
 Hello world
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
