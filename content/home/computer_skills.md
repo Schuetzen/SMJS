@@ -21,7 +21,7 @@ feature:
   icon_pack: custom
   name: Python
   
-- description: 80%
+- description: 70%
   icon: 'cpp'
   icon_pack: custom
   name: Cpp
@@ -31,20 +31,22 @@ feature:
   icon_pack: custom
   name: Shell
   
+- description: 60%
+  icon: 'FLUENT'
+  icon_pack: custom
+  name: Ansys Fluent
+  
 - description: 80%
   icon: 'latex'
   icon_pack: custom
   name: Latex
  
-- description: 80%
+- description: 30%
   icon: 'julia'
   icon_pack: custom
   name: Julia
   
-- description: 80%
-  icon: 'fluent'
-  icon_pack: custom
-  name: Ansys Fluent
+
 
 
 # Uncomment to use emoji icons.
