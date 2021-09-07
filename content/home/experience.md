@@ -1,11 +1,11 @@
 ---
 # An instance of the Experience widget.
-active: false
+active: ture
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
 
 # This file represents a page section.
-headless: false
+headless: ture
 
 # Order that this section appears on the page.
 weight: 40
@@ -27,12 +27,11 @@ experience:
   - title: Sales Assistant
     company: Kingdee software
     company_url: 'https://www.kingdee.com/'
-    company_logo: kingdee
+    company_logo: org-kd
     location: Nanchang
     date_start: '2018-01'
     date_end: '2018-06'
-    description: |2-
-      ERP-soft sale support
+    description: ERP-soft sale support
 
 design:
   columns: '1'
