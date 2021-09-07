@@ -1,6 +1,5 @@
 ---
 # An instance of the Experience widget.
-active: ture
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
 
