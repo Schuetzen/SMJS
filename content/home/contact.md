@@ -20,12 +20,12 @@ content:
   form:
     provider: netlify
     formspree:
-      id:
+      id: 
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: ture
+      captcha: false
   
-
 design:
   columns: '2'
 ---
+
