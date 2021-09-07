@@ -33,5 +33,5 @@ experience:
     description: ERP-soft sale support
 
 design:
-  columns: '1'
+  columns: '2'
 ---
