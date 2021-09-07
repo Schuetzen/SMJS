@@ -28,8 +28,8 @@ experience:
     company_url: 'https://www.kingdee.com/'
     company_logo: org-kd
     location: Nanchang
-    date_start: '2018-01'
-    date_end: '2018-06'
+    date_start: '2018-01-01'
+    date_end: '2018-06-01'
     description: ERP-soft sale support
 
 design:
