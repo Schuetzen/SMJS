@@ -32,7 +32,7 @@ feature:
   name: Shell
   
 - description: 60%
-  icon: 'FLUENT'
+  icon: FLUENT
   icon_pack: custom
   name: Ansys Fluent
   
