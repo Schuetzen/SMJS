@@ -1,6 +1,5 @@
 ---
 # An instance of the Experience widget.
-active: false
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
 
@@ -10,7 +9,7 @@ headless: false
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Work Experience
 subtitle:
 
 # Date format for experience
@@ -27,8 +26,7 @@ experience:
   - title: Sales Assistant
     company: Kingdee software
     company_url: 'https://www.kingdee.com/'
-    icon: kingdee
-    icon_pack: costom
+    company_logo: kingdee
     location: Nanchang
     date_start: '2018-01'
     date_end: '2018-06'
