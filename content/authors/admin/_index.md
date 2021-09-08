@@ -14,7 +14,7 @@ organizations:
   url: https://www.usst.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Ying Xuchen, also known as Schuetzen Ying.
+bio: Schuetzen Ying, a master student.
 
 # Interests to show in About widget
 interests:
@@ -76,7 +76,7 @@ email: yingxuchen@icloud.com
 highlight_name: true
 ---
 
-Ying Xuchen, also known as Schuetzen Ying. \
+Hello, I'm Schuetzen, still a master student in the USST. Here is my personal homepage.\
 \
 Participate in fund projects:
 * National Natural Science Foundation of China through grant `No.51736007`
