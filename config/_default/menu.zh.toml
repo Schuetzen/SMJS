@@ -1,0 +1,20 @@
+
+main:
+  - name: 主页
+    url: '#about'
+    weight: 10
+  - name: 技能
+    url: '#computer_skills'
+    weight: 20
+  - name: 经历
+    url: '#experience'
+    weight: 30
+  - name: 出版物
+    url: '#features'
+    weight: 40
+  - name: 博文
+    url: '#posts'
+    weight: 50
+  - name: 联系方式
+    url: '#contact'
+    weight: 60
