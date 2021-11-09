@@ -78,8 +78,8 @@ highlight_name: true
 
 Hello, I'm Schuetzen, still a master student in the USST. \
 Here is my personal homepage and I blog my learning notes both on notions and here\
-You can find our public {knowledge wiki}(https://www.notion.so/wikiwhale/3633a659e2a1478eaf6c8904c86de401)\
-I used to participate in following fund projects with my tutor:
+You can also find our public {knowledge wiki}(https://www.notion.so/wikiwhale)
+\I used to participate in following fund projects with my tutor:
 * National Natural Science Foundation of China through grant `No.51736007`
 * Shanghai Sailing Program `No.19YF1434800`\
 {{< icon name="download" pack="fas" >}} Here, you can download my {{< staticref "uploads/resume(zh).pdf" "newtab" >}}resumé(zh){{< /staticref >}}.
