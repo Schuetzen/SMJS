@@ -82,6 +82,6 @@ Participate in fund projects:
 * National Natural Science Foundation of China through grant `No.51736007`
 * Shanghai Sailing Program `No.19YF1434800`\
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume(zh).pdf" "newtab" >}}resumé(zh){{< /staticref >}}.
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
 
 
