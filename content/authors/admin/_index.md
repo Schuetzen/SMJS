@@ -77,7 +77,7 @@ highlight_name: true
 ---
 
 Hello, I'm Schuetzen, still a master student in the USST. \
-Here is my personal homepage and I blog my learning notes both on `notion` and here\
+This is my personal homepage and I blog my learning notes both on `notion` and here\
 You can also find our public {{< staticref "https://www.notion.so/wikiwhale" "newtab" >}}knowledge wiki{{< /staticref >}}. \
 I used to participate in following fund projects with my tutor:
 * National Natural Science Foundation of China through grant `No.51736007`
